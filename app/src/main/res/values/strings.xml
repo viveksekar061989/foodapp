@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MyFoodApp</string>
+    <string name="hello">hello</string>
+    <string name="hello2">hello2</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="flat_no">Flat No.:</string>
+    <string name="order_food">Place Order</string>
+    <string name="orderDtls">
+        Your Selected Food Details %s
+    </string>
+    <string name="msgtoUsr">
+        Thanks %s @ %s for Confirming order!
+    </string>
 </resources>
